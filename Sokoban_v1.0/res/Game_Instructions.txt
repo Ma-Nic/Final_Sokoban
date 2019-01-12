@@ -1,0 +1,9 @@
+~~~~~~~~~~~~~~~~~~~~~[Sokoban Game Instructions]~~~~~~~~~~~~~~~~~~~~~
+
+1. Select a Level to play from the Select Level Menu
+2. Use the arrow keys to move the Warehouse Keeper around the map
+3. Push all the crates onto the diamonds to win
+4. Be careful not to get stuck! 
+5. You can reset the level if you need too ;)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[Good Luck!]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
